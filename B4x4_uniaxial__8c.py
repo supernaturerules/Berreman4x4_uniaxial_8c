@@ -1,7 +1,7 @@
-#!/usr/bin/python
-# encoding: utf-8
+
 """
-B4x4
+Berreman4x4_uniaxial_8c
+
 ====
 
 Provides
