@@ -1,6 +1,6 @@
 
 """
-Berreman4x4_uniaxial_8c
+Berreman4x4_uniaxial_8c : Oprical Simulation of Cholesteric Liquid Crystals with an Overlying uniaxial Layer
 
 ====
 
