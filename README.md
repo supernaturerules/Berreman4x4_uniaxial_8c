@@ -12,4 +12,4 @@ Can be used for : Simulation of chiral nematic materials without or with a uniax
 
 
 
-Yitao Xu, 2026
+Yitao Xu, 2025
