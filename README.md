@@ -2,10 +2,14 @@
 
 Oprical Simulation of Cholesteric Liquid Crystals with an Overlying uniaxial Layer
 
-Simulation of chiral nematic materials in the presence of a uniaxial retardation layer by the Berreman4x4 matrix method.
+Codes are developed based on the previous simulation framework developed by Olivier Castany and Gen Kamita.
 
 Berreman4x4.py is required for using this module.
 
-Codes are developed based on the previous simulation framework developed by Olivier Castany and Gen Kamita.
+Can be used for : Simulation of chiral nematic materials without or with a uniaxial retardation layer by the Berreman4x4 matrix method.
+
+
+
+
 
 Yitao Xu, 2026
